@@ -1,0 +1,20 @@
+---
+layout: post
+title: XML and my love hate relationship
+categories:
+- opinion
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 Aug 2011
+
+I am a system administrator by trade (for want of a better word). I like computers and technology related to computers and what I really like is how computers can process data. One of my pet frustrations is when system administrators do things manually. We use computers and they are designed to process information at speeds greater than we can imagine, yet we are always expecting them to wait for us to click a mouse. In relative terms it’s like us using the forces of continental drift to travel the world.
+
+So I have been playing around lately with scripting. I, like many administrators like things to be done properly… unlike many administrators I have learnt not to let that stop me from getting a job done. I should use windows powershell to write my scripts because it is supported and well… it’s better. BUT for the fact that I already have an operational understanding of vbscript, I use that to get the job done. All that to say I wrote a vbscript that outputs XML as data. Why? well… because if I wanted to do something else with the data, I can. But OH! the pain. Not only do I have to realise that XML has no set tags, but I have to find some useful way of displaying it, otherwise it is just data.
+
+So my dilemma is that XML is the so called right way of representing data, but XSLT is needed if I want to represent that to a user in a way that is meaningful. I have been so used to thinking in terms of Data+Presentation that wrapping my mind around XML simply being a useful way of recording data and really that’s all it does… my caged mind wants to escape. I even had grandiose ideas of writing this site in XML. But if the site ever wanted to see the other end of a fibre optic cable, wordpress was the solution that made sense. I’ll get around to finding a way of making an XML based website… one day.
+
+As it turns out, even writing this article has helped me to verbalise what I’ve been learning – XML = Data… nicely marked and labelled, but data nonetheless. If you want a report of some kind, then ‘we haven’t finished yet’. I guess that’s why I have a love/hate relationship with XML. I love the idea that we can represent data in a very versatile and useful way, but then to find a way of making useful to someone who isn’t a data geek – that is the hard part. I felt myself saying during the process of writing these scripts to generate reports on user permissions and stuff… why can’t the ‘report recipient’ just appreciate the amount of work that has gone into creating this script and the raw data output? why do I have to make it pretty?
+
+But then I realised, I only have a job if someone at the other end wants a pretty report. It is best not to begrudge  the users that keep us admins employed.

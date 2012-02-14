@@ -1,0 +1,13 @@
+---
+layout: post
+title: Todoist
+categories:
+- review
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 Aug 2011
+I found todoist today. It’s probably been blogged about 100 billion times already, but in case it hasn’t I’m going to write about it. As a guy who occasionally likes to get work done, I have tried many different ways of managing my workload. I’ve tried the chaotic-hope-reading-news-com-au-is-going-to-get-my-work-done method to the rigid every-action-must-be-recorded-in-excel-spreadsheet method and various methods in between. None have been especially successful to date. Since I only found todoist today, I can’t guarantee success… because at some point I actually have to do the work. However, it has a unique way of conceptualising and breaking down tasks into categories and groups that help me to see my workload without wanting to hide by re-reading the same news article 15 times.
+
+Being at a computer all day, it can be very difficult to focus on the work that needs to be done. There are web comics to read and new technology to find out that I never knew I couldn’t live without. During the day, I found that todoist seemed to help bring my attention back to my task at hand without the overwhelming pressure of the entire workload bearing down on my mortal brain. So. I will keep you posted. Clear evidence that todoist is working will be whether I manage to keep this blog up to date or whether it disappears into the 100 other projects I never tell anyone I started list.

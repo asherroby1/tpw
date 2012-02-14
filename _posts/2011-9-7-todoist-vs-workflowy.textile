@@ -1,0 +1,14 @@
+---
+layout: post
+title: Todoist vs Workflowy
+categories:
+- review
+---
+
+h1. {{ page.title }}
+
+p(meta). 7 Sept 2011
+
+I’ve posted before about todoist. I like it. I’ve also recently been shown Workflowy, which is also very cool. As it turns out, though todoist seems to be winning the usefulness stakes. I’ve gone and upgraded to the pro version and this enables a few extra and very useful features – like being able to email a task to your todoist list. The subject becomes the title and the body becomes a note.
+
+I really liked workflowy and it was super easy to start. The keyboard shortcuts are excellent making it very easy to build a substantial list. But in regards to a tool that helps me to get work done. Todoist seems to have an edge. It has a built in alert capability, iphone app and deadlines – not available in workflowy.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Internetz are Cool
+categories:
+- opinion
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 Aug 2011
+
+I think the Internet is fascinating. I’m not one of these people who blindly follow this technology or that technology just because it is new. I like to see what is out there, for sure, but I also like make sure things are beneficial. The Internet, as far as a social construct, is Very New. Relatively speaking, the internet as a social medium is in it’s infancy, compared to say, writing, or printing or having tea with friends. But as a way of connecting with people it is fabulous. Many people, especially Geeks, poopah facebook because they are worried about privacy. I’m worried about privacy too but there’s a reason facebook works. It fills a need and it’s bloody easy to use. The need is to connect with people, now you may argue that this connection is weak at best but it’s a connection that can become stronger as technological innovation increases and the barriers to effective usage decrease.
+
+You might say that we had this *before* the Interwebs, so we’re essentially reinventing the wheel. But the reality is that we are not reinventing the wheel, we’re (when I say we… I’m being very general here, I don’t mean that I am involved in doing this stuff per se) allowing people to find friends they already knew and reconnect with them. We are up to web 2.0 and probably moving through another step change now with mobile communications and social networking becoming almost entirely entrenched in our psyche. These days, I don’t get a phone call or letter for an invitation to some event, it pops up as a notification on facebook and I decide if I’m coming or not. The event organiser spends less time worrying about the mechanics of organising the event and just get’s on with the job.
+
+I’m not saying the internet is the answer to all the world’s ills, but I am suggesting that we try to bend the use of the internet towards the social good instead of stepping back and saying that the horse and cart are as technologically advanced as we should go. Anyway, there’s a good chance that I’m not actually talking to anyone here… so I’ll close by saying… it’s midnight and time for me to go to bed check facebook 
